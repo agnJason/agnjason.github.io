@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 4th-year PhD student (transferred from a master’s program) at the College of Computer Science, Zhejiang University, advised by Professor Jianke Zhu.
+I am a 4th-year PhD student at the College of Computer Science, Zhejiang University, advised by Professor [Jianke Zhu (朱建科)](https://person.zju.edu.cn/en/jkzhu).
 
 My research interests include human reconstruction, hand estimation and reconstruction, human pose generation, and portrait video generation. I have published several papers as the first author, with acceptances at AAAI, ICLR, 3DV.
 
