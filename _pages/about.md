@@ -102,5 +102,5 @@ Lixiang Lin, Songyou Peng, **Qijun Gan**, Jianke Zhu
 - *2017.09 - 2021.06*, Bachelor's Degree, University of International Business and Economics (对外经济贸易大学), Information College.
 
 # 💻 Internships
-- *2024.07 - 2025.02*, [ByteDance](https://www.bytedance.com/en/) <img src='images/tiktok.png' alt="sym" width="100%">, Research Intern, Hangzhou, China.
-- *2021.10 - 2022.03*, [Huawei](https://www.huawei.com/) <img src='images/huawei.png' alt="sym" width="100%">, Hangzhou, China.
+- *2024.07 - 2025.02*, [ByteDance](https://www.bytedance.com/en/) <img src='images/tiktok.png' style='width: 6em;'>, Research Intern, Hangzhou, China.
+- *2021.10 - 2022.03*, [Huawei](https://www.huawei.com/) <img src='images/huawei.png' style='width: 6em;'>, Hangzhou, China.
