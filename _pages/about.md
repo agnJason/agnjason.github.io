@@ -17,42 +17,90 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a 4th-year PhD student (transferred from a master’s program) at the College of Computer Science, Zhejiang University, advised by Professor Jianke Zhu.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include human reconstruction, hand estimation and reconstruction, human pose generation, and portrait video generation. I have published several papers as the first author, with acceptances at AAAI, ICLR, 3DV.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.02*: &nbsp;🎉🎉 Paper accepted by ICLR 2025!
+- *2024.03*: &nbsp;🎉🎉 Paper accepted by AAAI 2024!
+
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/humandit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[HumanDiT: Pose-Guided Diffusion Transformer for Long-form Human Motion Video Generation](https://arxiv.org/abs/2502.04847)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Qijun Gan**, Yi Ren, Chen Zhang, Zhenhui Ye, Pan Xie, Xiang Yin, Zehuan Yuan, BINGYUE PENG, Jianke Zhu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://agnjason.github.io/HumanDiT-page/)
+- HumanDiT is a new pose-guided Diffusion Transformer (DiT) framework for human motion video generation. It addresses challenges in fine-grained body rendering, resolution flexibility, and visual consistency by leveraging a large-scale dataset and advanced architectural design. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 (Spotlight)</div><img src='images/pianomotion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PianoMotion10M: Dataset and Benchmark for Hand Motion Generation in Piano Performance](https://arxiv.org/abs/2406.09326)
+
+**Qijun Gan**, Song Wang, Shengtao Wu, Jianke Zhu
+
+ICLR 2025 (*Spotlight* - Top 5%)
+
+[**Project**](https://agnjason.github.io/PianoMotion-page) <strong><span class='show_paper_citations' data='qZvhvPcAAAAJ:d1gkVwhDpl0C'></span></strong>
+- PianoMotion10M is a new benchmark for piano-hand motion generation, providing guidance on hand movements and fingerings in piano playing.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/xhand.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[XHand: Real-time Expressive Hand Avatar](https://arxiv.org/abs/2407.21002)
+
+**Qijun Gan**, Zijie Zhou, Jianke Zhu
+
+[**Project**](https://agnjason.github.io/XHand-page/) <strong><span class='show_paper_citations' data='qZvhvPcAAAAJ:2osOgNQ5qMEC'></span></strong>
+- XHand is a real-time expressive hand avatar designed for high-fidelity hand shape, appearance, and deformation generation.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/fmhr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Fine-grained multi-view hand reconstruction using inverse rendering](https://ojs.aaai.org/index.php/AAAI/article/download/27946/27912)
+
+**Qijun Gan**, Wentong Li, Jinwei Ren, Jianke Zhu
+
+[**Project**](https://github.com/agnJason/FMHR) <strong><span class='show_paper_citations' data='qZvhvPcAAAAJ:u-x6o8ySG0sC'></span></strong>
+- We propose a fine-grained multi-view hand mesh reconstruction method that leverages inverse rendering to recover detailed hand poses and textures.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3DV 2024</div><img src='images/fasthuman.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FastHuman: Reconstructing High-Quality Clothed Human in Minutes](https://arxiv.org/abs/2211.14485)
+
+Lixiang Lin, Songyou Peng, **Qijun Gan**, Jianke Zhu
+
+[**Project**](https://l1346792580123.github.io/nccsfs/) <strong><span class='show_paper_citations' data='qZvhvPcAAAAJ:9yKSN-GCB0IC'></span></strong>
+- We introduce a fast optimization approach for high-quality clothed human body shape reconstruction from multi-view posed images.
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Outstanding Graduate (Bachelor's Degree)
+- *2020.06* 2020 U.S. College Student Mathematical Modeling Contest Outstanding Prize (top 0.03%)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.09 - 2025.02 (now)*, Ph.D. student, Zhejiang University (浙江大学), School of Computer Science and Technology.
+- *2017.09 - 2021.06*, Bachelor's Degree, University of International Business and Economics (对外经济贸易大学), Information College.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.07 - 2025.02*, [ByteDance](https://www.bytedance.com/en/) <img src='images/tiktok.png' alt="sym" width="100%">, Research Intern, Hangzhou, China.
+- *2021.10 - 2022.03*, [Huawei](https://www.huawei.com/) <img src='images/huawei.png' alt="sym" width="100%">, Hangzhou, China.
