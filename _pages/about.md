@@ -103,4 +103,4 @@ Lixiang Lin, Songyou Peng, **Qijun Gan**, Jianke Zhu
 
 # 💻 Internships
 - *2024.07 - 2025.02*, [ByteDance](https://www.bytedance.com/en/) <img src='images/tiktok.png' style='width: 6em;'>, Research Intern, Hangzhou, China.
-- *2021.10 - 2022.03*, [Huawei](https://www.huawei.com/) <img src='images/huawei.png' style='width: 6em;'>, Hangzhou, China.
+- *2021.10 - 2022.03*, [Huawei](https://www.huawei.com/) <img src='images/huawei.png' style='width: 2em;'>, Hangzhou, China.
