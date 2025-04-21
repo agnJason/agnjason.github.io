@@ -76,6 +76,8 @@ ICLR 2025 (*Spotlight* - Top 5%)
 
 **Qijun Gan**, Wentong Li, Jinwei Ren, Jianke Zhu
 
+AAAI 2024
+
 [**Project**](https://github.com/agnJason/FMHR) <strong><span class='show_paper_citations' data='qZvhvPcAAAAJ:u-x6o8ySG0sC'></span></strong>
 - We propose a fine-grained multi-view hand mesh reconstruction method that leverages inverse rendering to recover detailed hand poses and textures.
 </div>
@@ -102,5 +104,6 @@ Lixiang Lin, Songyou Peng, **Qijun Gan**, Jianke Zhu
 - *2017.09 - 2021.06*, Bachelor's Degree, University of International Business and Economics (对外经济贸易大学), Information College.
 
 # 💻 Internships
+- *2025.03 - now*, [Ailibaba](https://www.alibaba.com/) <img src='images/ali.svg' style='width: 6em;'>, Research Intern, Hangzhou, China.
 - *2024.07 - 2025.02*, [ByteDance](https://www.bytedance.com/en/) <img src='images/tiktok.png' style='width: 6em;'>, Research Intern, Hangzhou, China.
 - *2021.10 - 2022.03*, [Huawei](https://www.huawei.com/) <img src='images/huawei.png' style='width: 2em;'>, Hangzhou, China.
