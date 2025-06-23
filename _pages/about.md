@@ -51,7 +51,7 @@ My research interests include human reconstruction, hand estimation and reconstr
 
 ICLR 2025 (*Spotlight* - Top 5%)
 
-[**Project**](https://agnjason.github.io/PianoMotion-page) <strong><span class='show_paper_citations' data='qZvhvPcAAAAJ:d1gkVwhDpl0C'></span></strong>
+[**Project**](https://agnjason.github.io/PianoMotion-page) <strong><span class='show_paper_citations' data='qZvhvPcAAAAJ:d1gkVwhDpl0C'></span></strong> [![img](https://img.shields.io/github/stars/agnJason/PianoMotion10M?style=social)](https://github.com/agnJason/PianoMotion10M)
 - PianoMotion10M is a new benchmark for piano-hand motion generation, providing guidance on hand movements and fingerings in piano playing.
 </div>
 </div>
@@ -64,7 +64,7 @@ ICLR 2025 (*Spotlight* - Top 5%)
 
 **Qijun Gan**, Zijie Zhou, Jianke Zhu
 
-[**Project**](https://agnjason.github.io/XHand-page/) <strong><span class='show_paper_citations' data='qZvhvPcAAAAJ:2osOgNQ5qMEC'></span></strong>
+[**Project**](https://agnjason.github.io/XHand-page/) <strong><span class='show_paper_citations' data='qZvhvPcAAAAJ:2osOgNQ5qMEC'></span></strong> [![img](https://img.shields.io/github/stars/agnJason/XHand?style=social)](https://github.com/agnJason/XHand)
 - XHand is a real-time expressive hand avatar designed for high-fidelity hand shape, appearance, and deformation generation.
 </div>
 </div>
