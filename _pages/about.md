@@ -30,6 +30,18 @@ My research interests include human reconstruction, hand estimation and reconstr
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/omniavatar.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OmniAvatar: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation](http://arxiv.org/abs/2506.18866)
+
+**Qijun Gan**, Ruizi Yang, Jianke Zhu, Shaofei Xue, Steven Hoi
+
+[**Project**](https://omni-avatar.github.io/) <strong><span class='show_paper_citations' data='qZvhvPcAAAAJ:d1gkVwhDpl0C'></span></strong> [![img](https://img.shields.io/github/stars/Omni-Avatar/OmniAvatar?style=social)](https://github.com/Omni-Avatar/OmniAvatar)
+- OmniAvatar is a novel framework for audio-driven human video generation that enhances human animation with improved lip-sync accuracy and natural movements.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/humandit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
