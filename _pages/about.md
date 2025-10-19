@@ -17,18 +17,31 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 4th-year PhD student at the College of Computer Science, Zhejiang University, advised by Professor [Jianke Zhu (朱建科)](https://person.zju.edu.cn/en/jkzhu).
+I am a 5th-year PhD student at the College of Computer Science, Zhejiang University, advised by Professor [Jianke Zhu (朱建科)](https://person.zju.edu.cn/en/jkzhu).
 
-My research interests include human reconstruction, hand estimation and reconstruction, human pose generation, and portrait video generation. I have published several papers as the first author, with acceptances at AAAI, ICLR, 3DV.
+My research interests include human reconstruction, hand estimation and reconstruction, human pose generation, and portrait video generation. I have published several papers as the first author, with acceptances at AAAI, ICLR, 3DV. Recently, I am conducting in-depth research on joint generation of audio and video.
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 Paper accepted by TCSVT 2025!
 - *2025.02*: &nbsp;🎉🎉 Paper accepted by ICLR 2025!
 - *2024.03*: &nbsp;🎉🎉 Paper accepted by AAAI 2024!
 
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/InfinityHuman.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[InfinityHuman: Towards Long-Term Audio-Driven Human Animation](https://arxiv.org/pdf/2508.20210)
+
+Xiaodi Li*, Pan Xie*, Yi Ren*, **Qijun Gan***, Chen Zhang, Fangyuan Kong, Xiang Yin, Bingyue Peng, Zehuan Yuan
+
+[**Project**](https://infinityhuman.github.io/)
+- InfinityHuman is a coarse-to-fine framework that first generates audio-synchronized representations, then progressively refines them into high-resolution, long-duration videos using a pose-guided refiner.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/omniavatar.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
